@@ -16,8 +16,7 @@ int main(void){
 
     cel_temp = SPECIAL_FLOAT * (far_temp - FREEZING_POINT);
     printf("The value of %.3fF in celius is %.1fC\n", far_temp, cel_temp);
-    int point;
-    point =231;
+    
 
 
     return 0;
