@@ -13,7 +13,7 @@ int main(void){
     printf("group_identifier %d\n",group_identifier);
     printf("publisher_code %d\n",publisher_code);
     printf("item_number  %d\n",item_number);
-    printf("check_digit  %d\n",check_digit);
+    printf("check_digit  %1d\n",check_digit);
 
     return 0;
 }
