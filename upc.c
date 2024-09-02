@@ -25,10 +25,5 @@ int main(){
     check_digit = 9 - remainder;
     printf("%d",check_digit);
 
-
-
-
-
-
     return 0;
 }
